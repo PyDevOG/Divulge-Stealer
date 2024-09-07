@@ -14,8 +14,7 @@ What’s New in Divulge Stealer:
 
 5. Optimized: Removed useless features to make the overall output file much smaller.
 
-Key Features:
-Spoiler (Click to Hide)
+# Key Features:
 
 Anti-Virtual Machine Detection:
 Detects and exits if running in a virtual machine to avoid analysis in controlled environments.
@@ -91,3 +90,6 @@ Optional functionality for removing itself from the system after execution, leav
 
 Blocking Security Sites:
 Blocks access to well-known antivirus and security websites (e.g., VirusTotal, Avast, McAfee) to prevent users from uploading the payload for analysis or removing threats from the system.
+
+
+Credits to: https://github.com/Blank-c
