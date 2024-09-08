@@ -88,6 +88,36 @@ Stealth Operations:
 The payload can operate silently without user interaction or visible signs of execution.
 Optional functionality for removing itself from the system after execution, leaving no trace behind.
 
+
+# Terms of Service (TOS) for Divulge Stealer (Developed by Py_Dev)
+
+
+1. Acknowledgement of Research Purpose 
+The Divulge Stealer software is created solely for research, testing, and educational purposes. It is intended only for use in virtual machines or test environments. Any use of this software outside of these clearly defined settings is strictly prohibited. By using this software, you acknowledge and agree to adhere to these conditions.
+
+2. No Liability
+As the developer (Py_Dev), I disclaim any and all liability for any direct, indirect, incidental, or consequential damages that may result from the use, misuse, or inability to use the Divulge Stealer software. This includes, but is not limited to, loss of data, financial loss, security breaches, or any other harms. Py_Dev shall not be held responsible for any illegal or unethical use of this software, and the responsibility for compliance with applicable laws rests solely with the user.
+
+3. Prohibition of Unauthorized Usage
+Divulge Stealer is provided as a tool for research and should not be used in any production or live environments. You are required to use this tool solely within isolated, controlled, and non-public environments, such as virtual machines. Any application of Divulge Stealer for the purposes of unauthorized access, data theft, or illegal activities is strictly forbidden. Failure to comply with this may result in legal consequences, and Py_Dev is not responsible for the actions of the user.
+
+4. No Warranties
+This software is provided "as is," without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. I, Py_Dev, make no guarantees that the software will be free of bugs, errors, or vulnerabilities, or that it will function as expected in all test scenarios.
+
+5. Indemnity
+By using Divulge Stealer, you agree to indemnify and hold harmless Py_Dev from any claims, liabilities, damages, losses, or legal proceedings that may arise as a result of the misuse or unlawful use of this software. This includes, but is not limited to, any legal or regulatory actions brought against you due to violations of laws or policies regarding data security, privacy, or unauthorized access.
+
+6. Anti-VM and Use Restriction Notice
+This software includes an Anti-Virtual Machine Detection feature that prevents its use in certain environments. Despite this, you must ensure that the software is executed only within a virtual machine or test environment. Any activation of this software on a live system, without the explicit authorization of the system owner, is strictly prohibited and considered unlawful.
+
+7. Amendments and Modifications
+Py_Dev reserves the right to modify or update this Terms of Service at any time. Continued use of the software after any modifications constitutes acceptance of the revised terms.
+
+8. Governing Law
+This TOS shall be governed and construed in accordance with the laws of the jurisdiction where THE USER operates.
+
+By using Divulge Stealer, you affirm that you have read, understood, and agreed to these terms. Any violation of these terms may result in termination of your rights to use this software and potential legal action.
+
 Blocking Security Sites:
 Blocks access to well-known antivirus and security websites (e.g., VirusTotal, Avast, McAfee) to prevent users from uploading the payload for analysis or removing threats from the system.
 
