@@ -88,6 +88,10 @@ Stealth Operations:
 The payload can operate silently without user interaction or visible signs of execution.
 Optional functionality for removing itself from the system after execution, leaving no trace behind.
 
+Blocking Security Sites:
+Blocks access to well-known antivirus and security websites (e.g., VirusTotal, Avast, McAfee) to prevent users from uploading the payload for analysis or removing threats from the system.
+
+
 
 # Terms of Service (TOS) for Divulge Stealer (Developed by Py_Dev)
 
@@ -117,9 +121,6 @@ Py_Dev reserves the right to modify or update this Terms of Service at any time.
 This TOS shall be governed and construed in accordance with the laws of the jurisdiction where THE USER operates.
 
 By using Divulge Stealer, you affirm that you have read, understood, and agreed to these terms. Any violation of these terms may result in termination of your rights to use this software and potential legal action.
-
-Blocking Security Sites:
-Blocks access to well-known antivirus and security websites (e.g., VirusTotal, Avast, McAfee) to prevent users from uploading the payload for analysis or removing threats from the system.
 
 
 Credits to: https://github.com/Blank-c
