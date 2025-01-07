@@ -1,5 +1,11 @@
 
 ![Capture](https://github.com/user-attachments/assets/d4c64806-0318-4db2-b9f5-e782c63ea130)
+
+# Divulge-Stealer
+
+Release 1 for precompiled!!!!
+
+
 # Divulge-Stealer
 Divulge Stealer a highly advanced info-stealer that outperforms its predecessor, Umbral-Stealer by Blank-c. This new iteration is a complete overhaul with enhanced capabilities, targeting 25 major cryptocurrency wallets with precision.
 
